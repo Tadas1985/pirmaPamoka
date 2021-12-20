@@ -10,7 +10,7 @@ namespace pirmaPamoka
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("start");
+            Console.WriteLine("start1");
             Console.ReadKey();
         }
     }
