@@ -1,0 +1,8 @@
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\bin\Debug\pirmaPamoka.exe.config
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\bin\Debug\pirmaPamoka.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\bin\Debug\pirmaPamoka.pdb
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\obj\Debug\pirmaPamoka.csproj.AssemblyReference.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\obj\Debug\pirmaPamoka.csproj.SuggestedBindingRedirects.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\obj\Debug\pirmaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\obj\Debug\pirmaPamoka.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\Pirma pamoka\pirmaPamoka\obj\Debug\pirmaPamoka.pdb
