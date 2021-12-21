@@ -79,7 +79,7 @@ namespace pirmaPamoka
             Console.ReadLine();
 
             // Task 8
-            Console.WriteLine("Task 8");
+            Console.WriteLine("Task_8");
             Console.WriteLine("Enter number A:");
             int A = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number B:");
